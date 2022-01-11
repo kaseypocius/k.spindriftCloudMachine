@@ -1,5 +1,5 @@
 # k.spindriftCloudMachine
-A polyphonic wrap of Micheal Norris SpinDrift Max external running in cloud mode, for layering lots grain clouds. Make your CPU hurt. 
+A polyphonic wrap of Micheal Norris SpinDrift Max external running in cloud mode, for layering lots of grain clouds. Make your CPU hurt. 
 
 Run in a bpatcher to use the GUI - includes a version with libmapper hooks, for easy exploration
 
